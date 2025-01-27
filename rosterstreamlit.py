@@ -436,7 +436,7 @@ def export_to_excel():
 # -------------------------------------------------------------------------
 def main():
     st.set_page_config(layout="wide")
-    st.title("Roster Planlama (Streamlit Uygulaması)")
+    st.title("Roster Planlama")
 
     initialize_session_states()
 
